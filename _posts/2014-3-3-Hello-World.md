@@ -5,4 +5,4 @@ title: Up and running!
 
 # Hello world
 
-soon™ more content will follow ...
+soon™ more content will follow ... :+1:
