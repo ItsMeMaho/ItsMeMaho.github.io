@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am currently pursuing my BA in  *Computational Linguistics* in Heidelberg.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+more to follow...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+holzinger (at) cl.uni-heidelberg.de
