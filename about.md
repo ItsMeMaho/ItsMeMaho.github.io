@@ -27,8 +27,8 @@ relevante Webseiten:
 * <https://pgexercises.com/> (Datenbanken/PostgreSQL)
 * <http://alda.iwr.uni-heidelberg.de/index.php/Main_Page> (Algorithmen und Datenstrukturen (kurz: **ALDA**) Skript)
 
-Free Stuff (für Studenten):  
-* <https://education.github.com/pack> (:+1:)
+Free Stuff :gift: (für Studenten):  
+* <https://education.github.com/pack> (:cloud::computer:)
 * <https://www.jetbrains.com/pycharm/> (IDE)
 * <https://mubi.com/de/filmstudent> (Indie Film Streamservice)
 * <https://www.urz.uni-heidelberg.de/de/microsoft-office-365-pro-plus-studierende-und-mitarbeiterinnen> (Microsoft Office - nicht ganz kostenlos, aber fast)
@@ -39,4 +39,4 @@ coming soon...
 
 ### Kontakt
 
-email: holzinger (at) cl.uni-heidelberg.de
+:email: holzinger (at) cl.uni-heidelberg.de
