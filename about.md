@@ -16,7 +16,7 @@ Ein paar Youtube ~ kanäle/playlisten die euer Studium begleiten:
 * 6. Semester - [Bachelorarbeit](https://www.youtube.com/user/empnp)
 
 relevante Webseiten:  
-* https://www.overleaf.com/ (Hausarbeiten/Berichte in LaTeX)
+* <https://www.overleaf.com/> (Hausarbeiten/Berichte in LaTeX)
 * https://www.wolframalpha.com/ (Mathe)
 * https://regex101.com/ (zum Überprüfen von regex)
 * https://regexcrossword.com/ (um wirklich sicher zu gehen, dass man regex beherrscht ...)
