@@ -8,12 +8,12 @@ permalink: /about/
 
 Ein paar Youtube ~ kanäle/playlisten die euer Studium begleiten:  
 
-* 1. Semester - [ECL](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm) ([Bonus](https://www.youtube.com/watch?v=9iYwUh1Hdho))
-* 2. Semester - [Syntax/Semantik](https://www.youtube.com/user/thelingspace)
-* 3. Semester - [Statistik](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-* 4. Semester - [Softwareprojekt](https://www.youtube.com/user/sentdex)
-* 5. Semester - [Seminare](https://www.youtube.com/user/keeroyz)
-* 6. Semester - [Bachelorarbeit](https://www.youtube.com/user/empnp)
+* 1.Semester - [ECL](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm) ([Bonus](https://www.youtube.com/watch?v=9iYwUh1Hdho))
+* 2.Semester - [Syntax/Semantik](https://www.youtube.com/user/thelingspace)
+* 3.Semester - [Statistik](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+* 4.Semester - [Softwareprojekt](https://www.youtube.com/user/sentdex)
+* 5.Semester - [Seminare](https://www.youtube.com/user/keeroyz)
+* 6.Semester - [Bachelorarbeit](https://www.youtube.com/user/empnp)
 
 relevante Webseiten:  
 * <https://www.overleaf.com/> (Hausarbeiten/Berichte in LaTeX)
