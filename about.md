@@ -17,20 +17,20 @@ Ein paar Youtube ~ kanäle/playlisten die euer Studium begleiten:
 
 relevante Webseiten:  
 * <https://www.overleaf.com/> (Hausarbeiten/Berichte in LaTeX)
-* https://www.wolframalpha.com/ (Mathe)
-* https://regex101.com/ (zum Überprüfen von regex)
-* https://regexcrossword.com/ (um wirklich sicher zu gehen, dass man regex beherrscht ...)
-* http://madebyevan.com/fsm/ (Automaten zeichnen)
-* http://www.let.rug.nl/kleiweg/lev/ (Minimum Edit Distance berechnen)
-* http://clarino.uib.no/iness/xle-web (Syntax parser -> gibt F-Struktur bzw. C-Struktur)
-* https://pgexercises.com/ (Datenbanken/PostgreSQL)
-* http://alda.iwr.uni-heidelberg.de/index.php/Main_Page (Algorithmen und Datenstrukturen (kurz: ALDA) Skript)
+* <https://www.wolframalpha.com/> (Mathe)
+* <https://regex101.com/> (zum Überprüfen von regex)
+* <https://regexcrossword.com/> (um wirklich sicher zu gehen, dass man regex beherrscht ...)
+* <http://madebyevan.com/fsm/> (Automaten zeichnen)
+* <http://www.let.rug.nl/kleiweg/lev/> (Minimum Edit Distance berechnen)
+* <http://clarino.uib.no/iness/xle-web> (Syntax parser -> gibt F-Struktur bzw. C-Struktur)
+* <https://pgexercises.com/> (Datenbanken/PostgreSQL)
+* <http://alda.iwr.uni-heidelberg.de/index.php/Main_Page> (Algorithmen und Datenstrukturen (kurz: ALDA) Skript)
 
 Free Stuff (für Studenten):  
-* https://education.github.com/pack (:+1:)
-* https://www.jetbrains.com/pycharm/ (IDE)
-* https://mubi.com/de/filmstudent (Indie Film Streamservice)
-* https://www.urz.uni-heidelberg.de/de/microsoft-office-365-pro-plus-studierende-und-mitarbeiterinnen (Microsoft Office - nicht ganz kostenlos, aber fast)
+* <https://education.github.com/pack> (:+1:)
+* <https://www.jetbrains.com/pycharm/> (IDE)
+* <https://mubi.com/de/filmstudent> (Indie Film Streamservice)
+* <https://www.urz.uni-heidelberg.de/de/microsoft-office-365-pro-plus-studierende-und-mitarbeiterinnen> (Microsoft Office - nicht ganz kostenlos, aber fast)
 
 ### Python
 
